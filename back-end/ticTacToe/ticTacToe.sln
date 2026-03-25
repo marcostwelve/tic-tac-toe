@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToe.API", "ticTacToe.API\ticTacToe.API.csproj", "{F319C077-0B87-4A0E-8AAB-5D925CD8CE57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToe.Application", "ticTacToe.Application\ticTacToe.Application.csproj", "{A719B78C-54D2-4642-A641-16F0DD2D2DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToe.Domain", "ticTacToe.Domain\ticTacToe.Domain.csproj", "{D378CFD5-7B85-4D22-A79A-B883C3774FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToe.Infrastructure", "ticTacToe.Infrastructure\ticTacToe.Infrastructure.csproj", "{F8422575-64AC-4442-9F73-283DEAA64B81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F319C077-0B87-4A0E-8AAB-5D925CD8CE57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F319C077-0B87-4A0E-8AAB-5D925CD8CE57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F319C077-0B87-4A0E-8AAB-5D925CD8CE57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F319C077-0B87-4A0E-8AAB-5D925CD8CE57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A719B78C-54D2-4642-A641-16F0DD2D2DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A719B78C-54D2-4642-A641-16F0DD2D2DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A719B78C-54D2-4642-A641-16F0DD2D2DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A719B78C-54D2-4642-A641-16F0DD2D2DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D378CFD5-7B85-4D22-A79A-B883C3774FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D378CFD5-7B85-4D22-A79A-B883C3774FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D378CFD5-7B85-4D22-A79A-B883C3774FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D378CFD5-7B85-4D22-A79A-B883C3774FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8422575-64AC-4442-9F73-283DEAA64B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8422575-64AC-4442-9F73-283DEAA64B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8422575-64AC-4442-9F73-283DEAA64B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8422575-64AC-4442-9F73-283DEAA64B81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC2C3E05-C242-447B-96DC-17DF72B6E929}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\bin\Debug\net8.0\ticTacToe.Infrastructure.deps.json
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\bin\Debug\net8.0\ticTacToe.Infrastructure.runtimeconfig.json
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\bin\Debug\net8.0\ticTacToe.Infrastructure.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\bin\Debug\net8.0\ticTacToe.Infrastructure.pdb
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\bin\Debug\net8.0\ticTacToe.Domain.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\bin\Debug\net8.0\ticTacToe.Domain.pdb
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.AssemblyInfo.cs
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacTo.A6646951.Up2Date
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\refint\ticTacToe.Infrastructure.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.pdb
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ticTacToe.Infrastructure.genruntimeconfig.cache
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Infrastructure\obj\Debug\net8.0\ref\ticTacToe.Infrastructure.dll

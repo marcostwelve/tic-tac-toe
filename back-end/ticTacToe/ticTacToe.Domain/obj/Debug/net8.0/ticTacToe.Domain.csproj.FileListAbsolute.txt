@@ -1,0 +1,11 @@
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\bin\Debug\net8.0\ticTacToe.Domain.deps.json
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\bin\Debug\net8.0\ticTacToe.Domain.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\bin\Debug\net8.0\ticTacToe.Domain.pdb
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ticTacToe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ticTacToe.Domain.AssemblyInfoInputs.cache
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ticTacToe.Domain.AssemblyInfo.cs
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ticTacToe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ticTacToe.Domain.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\refint\ticTacToe.Domain.dll
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ticTacToe.Domain.pdb
+C:\Users\Marquinhos\Downloads\projetos\testes\tic-tac-toe\back-end\ticTacToe\ticTacToe.Domain\obj\Debug\net8.0\ref\ticTacToe.Domain.dll

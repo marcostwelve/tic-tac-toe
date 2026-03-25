@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #1f1f1f;
+}
+
+.navbar a {
+  color: #ccc;
+  text-decoration: none;
+  margin-left: 16px;
+}
+
+.navbar a:hover {
+  color: #4da6ff;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+
+.game {
+  text-align: center;
+}
+
+.status {
+  margin: 16px 0;
+  font-size: 18px;
+}
+
+.status span {
+  color: #4da6ff;
+  font-weight: bold;
+}
+
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  gap: 10px;
+  justify-content: center;
+}
+
+
+.square {
+  width: 100px;
+  height: 100px;
+  font-size: 28px;
+  font-weight: bold;
+  background-color: #1f1f1f;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.square:hover {
+  background-color: #333;
+}
+
+
+.button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #4da6ff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  color: white;
+}
+
+.button:hover {
+  background-color: #3399ff;
+}
+
+/* History */
+.history {
+  width: 500px;
+}
+
+.history-item {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f1f1f;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}

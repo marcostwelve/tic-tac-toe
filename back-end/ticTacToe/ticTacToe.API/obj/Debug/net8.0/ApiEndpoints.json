@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "ticTacToe.API.Controllers.PartidaController",
+    "Method": "AdicionarPartida",
+    "RelativePath": "api/Partida",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "partida",
+        "Type": "ticTacToe.Application.Dto.PartidaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ticTacToe.API.Controllers.PartidaController",
+    "Method": "ObterTodasPartidas",
+    "RelativePath": "api/Partida",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ticTacToe.API.Controllers.PartidaController",
+    "Method": "ObterPartidaPorId",
+    "RelativePath": "api/Partida/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
